@@ -74,11 +74,11 @@ if(isset($_GET["action"]))
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li class="active"><a href="#">Acceuil</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
           </ul>
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="../navbar/">Profil</a></li>
+            <li><a href="#">Profil</a></li>
             <li class="active"><a href="./">Deconnexion</a></li>
           </ul>
         </div><!--/.nav-collapse -->
