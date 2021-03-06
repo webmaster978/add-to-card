@@ -153,7 +153,7 @@ if(isset($_GET["action"]))
 						}
 					?>
 					<tr>
-						<td colspan="3" align="right">Total</td>
+						<td colspan="3" align="right">Total en USD</td>
 						<td align="right">$ <?php echo number_format($total, 2); ?></td>
 						<td></td>
 					</tr>
